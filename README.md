@@ -1,79 +1,84 @@
-## Hi there 👋 I’m Ayush Raj
+## 👋 Hi, I’m Ayush Raj
 
-I’m a **Product Management Associate at Vedantu** with hands-on experience building **AI-powered products** and
-optimizing **consumer-facing funnels** at scale.
+**Product Management Trainee @ Vedantu**  
+AI Products • Experimentation • Data-Driven Decision Making
 
-I work at the intersection of **Product, Data, and Engineering** — translating user problems into
-clear product decisions, experiments, and shipped features.
-
----
-
-### 🚀 What I Do
-- 🤖 Build **AI-first products** using RAG, Vector Databases & LLM orchestration
-- 📊 Drive **data-backed decisions** via funnel analysis & A/B testing
-- ⚛️ Collaborate deeply with engineering to ship scalable solutions
-- 🧠 Solve complex problems (400+ DSA problems solved)
+I work at the intersection of **Product, Data, and Engineering**, building and scaling
+AI-powered and consumer-facing products with measurable business impact.
 
 ---
 
-### 🧠 Experience Highlights
+## 💼 Professional Experience
 
-**Ved AI — AI Teaching Assistant**
-- Built RAG-based knowledge system using **LangGraph orchestration**
-- Designed retrieval logic across **curriculum data + conversation history**
-- Enabled **45% AI-led query resolution** with **65% student satisfaction**
-- Worked cross-functionally with content, academics, analytics & engineering
+### 🧠 Product Management Trainee  
+**Vedantu Innovations Pvt. Ltd.** · Bengaluru  
+*Dec 2024 – Present*
 
-**Vedantu Store — E-commerce Platform**
-- Led checkout & mobile funnel optimization initiatives
-- Ran end-to-end **A/B tests** (4-step vs 2-step flows → **+12% CVR**)
-- Integrated **Cashfree checkout**, improving completion by **20%**
-- Implemented lazy loading, SEO improvements & cart recovery workflows
+#### 🤖 Ved AI — AI-Powered Doubt Solving Platform
+- Built and structured a **RAG-based Vector Database** using **LangGraph orchestration**
+- Designed intelligent retrieval across **curriculum content + student conversation history**
+- Enabled **45% AI-led query resolution**, achieving **65% student satisfaction**
+- Partnered with **content, academics, analytics, and engineering** teams to align product behavior with curriculum goals
+
+#### 🛒 Vedantu Store — E-commerce Platform
+- Led **checkout and mobile funnel optimization** initiatives based on user behavior analysis
+- Designed and executed **A/B tests** (4-step vs 2-step flows), driving **+12% conversion**
+- Integrated **Cashfree checkout**, improving completion rates by **20%**
+- Implemented lazy loading, SEO enhancements, and abandoned cart recovery workflows
 
 ---
 
-### 🛠️ Skills & Tools
+### 💻 Software Development Engineer Intern  
+**Vedantu Innovations Pvt. Ltd.** · Bengaluru  
+*Mar 2024 – Nov 2024*
 
-**Product**
-- Roadmap Planning
-- User Research & Testing
-- A/B Testing & Experimentation
-- Stakeholder Management
+- Built and optimized **student-facing UI components** using **React / React Native**
+- Collaborated closely with **PMs, designers, and backend teams** in agile sprints
+- Improved frontend performance and component reusability, accelerating feature delivery
+
+---
+
+## 🛠️ Skills & Tooling
+
+### 📦 Product
+- Roadmap Planning  
+- User Research & Testing  
+- A/B Testing & Experimentation  
+- Stakeholder Management  
 - Conversion Rate Optimization (CRO)
 
-**Analytics**
-- Funnel & Engagement Analysis
-- SQL
-- Google Analytics
-- Metabase
-- Experiment Metrics Tracking
+### 📊 Analytics
+- Funnel & Engagement Analysis  
+- SQL  
+- Google Analytics  
+- Metabase  
+- Experiment Metrics Tracking  
 
-**Tech**
-- JavaScript
-- React / React Native
-- Node.js
-- REST APIs
-- RAG-based Vector Databases
-- LangGraph
-- n8n
-- Git & GitHub
-
----
-
-### 📌 Featured Projects
-- 🤖 **Ved AI** – RAG-based AI doubt-solving system
-- 🛒 **Vedantu Store Revamp** – CRO & checkout optimization
-- 🔐 **AI Chatbot Apps** – LLM-powered conversational products
-- 🧪 **Product Experiments** – Funnel analysis & A/B testing case studies
-
-*(Actively building & documenting more)*
-
+### ⚙️ Engineering
+- JavaScript  
+- React / React Native  
+- Node.js  
+- REST APIs  
+- RAG-based Vector Databases  
+- LangGraph  
+- n8n  
+- Git & GitHub  
 
 ---
 
-### 🤝 Let’s Connect
+## 📌 Selected Work & Case Studies
+- 🤖 **Ved AI** — RAG-based AI teaching assistant
+- 🛒 **Vedantu Store Revamp** — Checkout & CVR optimization
+- 🧪 **Product Experiments** — Funnel analysis & A/B testing deep dives
+- 🔐 **AI Chatbot Projects** — LLM-powered conversational systems
+
+*(Detailed case studies coming soon)*
+
+---
+
+## 🤝 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/iayushraj18/)
-- 📩 Always open to **Product, AI & Startup conversations**
+- 📩 Open to conversations around **Product, AI, and startups**
 
 ---
-⭐ Building products that balance **user value, business impact & technical depth**
+⭐ Focused on building products that balance **user value, technical depth, and business impact**
