@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Ayush Raj
 
-I’m a **Product Management Trainee at Vedantu** with hands-on experience building **AI-powered products** and
+I’m a **Product Management Associate at Vedantu** with hands-on experience building **AI-powered products** and
 optimizing **consumer-facing funnels** at scale.
 
 I work at the intersection of **Product, Data, and Engineering** — translating user problems into
