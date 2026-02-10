@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ayush Raj
 
-**Product Management Trainee @ Vedantu**  
+**Product Management Associate @ Vedantu**  
 AI Products • Experimentation • Data-Driven Decision Making
 
 I work at the intersection of **Product, Data, and Engineering**, building and scaling
@@ -10,7 +10,7 @@ AI-powered and consumer-facing products with measurable business impact.
 
 ## 💼 Professional Experience
 
-### 🧠 Product Management Trainee  
+### 🧠 Product Management Associate  
 **Vedantu Innovations Pvt. Ltd.** · Bengaluru  
 *Dec 2024 – Present*
 
