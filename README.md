@@ -68,10 +68,6 @@ clear product decisions, experiments, and shipped features.
 
 *(Actively building & documenting more)*
 
----
-
-### 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
